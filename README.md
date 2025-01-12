@@ -3,11 +3,11 @@
 I’m a data scientist and researcher with a strong background in AI, machine learning, and injury biomechanics. I completed my PhD in 2024 with a focus on AI-driven tools for pedestrian collision triage and emergency response. My work has had real-world impact, with implementations in German Police, Scotland Police, and the West Midlands Ambulance Service.
 
 🔬 Research & Expertise
-	•	PhD Thesis: In-Situ Triage of Pedestrian Collisions
-	•	Focus Areas: Collision forensics, AI for post-collision care, injury prediction, and emergency responder support.
-	•	Industry Collaboration: Work implemented by police forces and ambulance services to improve collision response.
-	•	Patent Holder: For a novel approach in collision forensics.
-	•	Published Work: 3 journals, 2 conferences, and featured in Crash Technology International.
+- PhD Thesis: In-Situ Triage of Pedestrian Collisions
+- Focus Areas: Collision forensics, AI for post-collision care, injury prediction, and emergency responder support.
+- Industry Collaboration: Work implemented by police forces and ambulance services to improve collision response.
+- Patent Holder: For a novel approach in collision forensics.
+- Published Work: 3 journals, 2 conferences, and featured in Crash Technology International.
 
 💼 Professional Experience
 
