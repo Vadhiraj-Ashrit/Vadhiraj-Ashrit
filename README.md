@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hello! I’m a data scientist and researcher with a strong background in AI, machine learning, and injury biomechanics. I completed my PhD in 2024 with a focus on AI-driven tools for pedestrian collision triage and emergency response. My work has had real-world impact, with implementations in German Police, Scotland Police, and the West Midlands Ambulance Service.
+I’m a data scientist and researcher with a strong background in AI, machine learning, and injury biomechanics. I completed my PhD in 2024 with a focus on AI-driven tools for pedestrian collision triage and emergency response. My work has had real-world impact, with implementations in German Police, Scotland Police, and the West Midlands Ambulance Service.
 
 🔬 Research & Expertise
 	•	PhD Thesis: In-Situ Triage of Pedestrian Collisions
