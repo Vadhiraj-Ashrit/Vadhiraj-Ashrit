@@ -32,8 +32,8 @@ I am passionate about applying AI to real-world safety problems, and I am also e
 I’m looking to transition into leadership roles, where I can leverage my expertise to make impactful contributions. Whether it’s postdoctoral research, data science leadership, or consulting roles in safety and forensics, I am excited about roles that allow me to continue learning and solving critical problems.
 
 🔗 Connect with Me
-	•	LinkedIn
-	•	Twitter
-	•	Email
+- [LinkedIn](https://www.linkedin.com/in/vadhirajs/)
+- [Website](https://sites.google.com/view/vadhiraj-shrinivas/home)
+- [Email](vadhiraj.ashrit@gmail.com)
 
 Feel free to explore my repositories, where I share code related to AI, machine learning, collision forensics, and multimodal data analysis
